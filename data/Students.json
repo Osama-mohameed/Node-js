@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Ahmed",
+        "id": 1,
+        "dept": "ps"
+    },
+    {
+        "name": "Osama",
+        "id": 2,
+        "dept": "dd"
+    },
+    {
+        "name": "Ali",
+        "id": 3,
+        "dept": "pc"
+    },
+    {
+        "name": "Omar",
+        "id": 4,
+        "dept": "psvf"
+    },
+    {
+        "name": "Hosam",
+        "id": 5,
+        "dept": "fg"
+    },
+    {
+        "name": "Gomaa",
+        "id": 6,
+        "dept": "sx"
+    },
+    {
+        "name": "Hesan",
+        "id": 7,
+        "dept": "lp"
+    }
+]
